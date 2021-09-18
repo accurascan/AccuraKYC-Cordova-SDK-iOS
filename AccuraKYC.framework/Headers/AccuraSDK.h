@@ -89,7 +89,7 @@ string docrecog_scan_RecogEngine_doCheckDocument(cv::Mat srcMat);
 //void Logger(string logMsg, bool isPrint = false);
 string docrecog_scan_RecogEngine_loadScanner(int countrytype_/*, string dairectorypath*/);
 string docrecog_scan_RecogEngine_loadNumberPlat(int countrytype_, int cardtype_);
-CardDetails docrecog_scan_RecogEngine_BankCard(std:: string inputString);
+string docrecog_scan_RecogEngine_BankCard(std:: string inputString);
 string docrecog_scan_RecogEngine_recognizeCard(string ocrText, int i, int cardSide);
 std::string docrecog_scan_RecogEngine_loadCard(int recog_type);
 void docrecog_scan_RecogEngine_qatarFrontFrameCount(int qatarFrontFrameCount);

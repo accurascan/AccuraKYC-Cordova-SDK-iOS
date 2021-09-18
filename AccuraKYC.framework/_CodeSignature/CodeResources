@@ -22,7 +22,7 @@
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/Info.plist</key>
 		<data>
-		FDvBXei+oHN39JWiqsf8S6If86k=
+		84cIJVyq1yQjhAGqu2YGR+FvNzY=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
 		<data>
@@ -60,42 +60,6 @@
 		<data>
 		RxtbTN3LjpFChp3tmniX3KD+dsE=
 		</data>
-		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
-		<data>
-		DjMy9at9gsQb2p4G8zuC+8l+F6w=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<data>
-		V2ROSYH9TDZ87SKQfYmC78jkabg=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<data>
-		W+TF/C0djllwb4ejtlbbwoqIOaA=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<data>
-		6ny23cax5EGQNgpJKSnhJUhpxtQ=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_langid.tflite</key>
-		<data>
-		7HSIAQWybgEckhODNRSbO0NA3oQ=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<data>
-		66UmXr+gf7XJ71vLnqjAwes9Mnw=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<data>
-		68PK2+uslXMmEpqkRadeVy2t0PE=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<data>
-		BQIj06B3MVer0TIFCE1lwPQqAQ8=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<data>
-		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
-		</data>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<data>
 		UincKIT/6KAvmRQNke3bcDRxIiI=
@@ -106,7 +70,7 @@
 		</data>
 		<key>Headers/AccuraSDK.h</key>
 		<data>
-		+S35gPBRBeglhgEcD9BsahF3tB4=
+		+xk1A3zl5HCCfvS3fqvkUELUnpA=
 		</data>
 		<key>Headers/EngineWrapper.h</key>
 		<data>
@@ -188,21 +152,57 @@
 		<data>
 		U2/Np5cXWRy7J2fimqHYsAj6AZw=
 		</data>
+		<key>LatinOCRResources.bundle/Info.plist</key>
+		<data>
+		Qv/WRF7D3PbAPVi9lJCFPcLirII=
+		</data>
+		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
+		<data>
+		V2ROSYH9TDZ87SKQfYmC78jkabg=
+		</data>
+		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
+		<data>
+		W+TF/C0djllwb4ejtlbbwoqIOaA=
+		</data>
+		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
+		<data>
+		6ny23cax5EGQNgpJKSnhJUhpxtQ=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
+		<data>
+		/LcQXDvm1hHXPLE3IVulrhpZePE=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
+		<data>
+		66UmXr+gf7XJ71vLnqjAwes9Mnw=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
+		<data>
+		68PK2+uslXMmEpqkRadeVy2t0PE=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
+		<data>
+		BQIj06B3MVer0TIFCE1lwPQqAQ8=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
+		<data>
+		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
+		</data>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<data>
 		ZczLTQMZq306KsAz4GJXSF+KvcU=
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		W70M3NZE+YC7Nu2NxXIOcHlPb2M=
+		dHK7II/RD0wvSgNmxcdPQeeCHxE=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		70BXasc3+xBaHjSNvbVufvQKkyw=
+		t2YRALxWpUDMoYiINTS3vWhx2Z4=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		jYKiYHblRv6bJoP5bDgd5oPexDk=
+		8+zSju19r/h3HwP+SIEXvBpirNw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -286,7 +286,7 @@
 		</data>
 		<key>model1.dat</key>
 		<data>
-		3hLGO7CdwyE9Dhv/vJmQ5VS5gLM=
+		5OfUVka5TLh+J2sGXpKH/GLMlzw=
 		</data>
 		<key>model2.dat</key>
 		<data>
@@ -327,7 +327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VmdBbIGYV6X0nnaAILWQOTquLl7Xhp3dZqYrkM6Ztmo=
+			yP6qiR/FMb4zkk94bGKC6SE+O3eK94rQ/Pz3CaFDofM=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/LMprec_600.emd</key>
@@ -393,69 +393,6 @@
 			2pAlL0mzu5QuX4gBgKFFYfZpKW5/s+3s3quqi2u3gio=
 			</data>
 		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3FtIyc3idcuAkOYXO7DPz3sZnsJ3lLbXX9kr0iDUrpM=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Gji2RtEJwU3YrjDV8SqQNvYPnpI8kwEzeqJQd1nysJg=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EPDNQpLTZ7J3ggU9/BhgwGKbEwmAWLOsHW7KYoi7+wQ=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_langid.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g9SKOS50SMnJHvaBluGbAxQB/e5FMKcbR06Hr6dF/n0=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
-			</data>
-		</dict>
 		<key>Headers/AccuraCameraWrapper.h</key>
 		<dict>
 			<key>hash2</key>
@@ -474,7 +411,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oRBkZH+v87SNXMnJAQUlrvEDbDDjiHB7ZhzV4OPYH10=
+			t0FDIkna/Jfyi50sRVXfxGZEVkDtOhl6yirEf9yVbd8=
 			</data>
 		</dict>
 		<key>Headers/EngineWrapper.h</key>
@@ -610,6 +547,69 @@
 			Qi4N6OMnX+v1xBpcz4kfaPFrxA4bXcom5QkTswfveU4=
 			</data>
 		</dict>
+		<key>LatinOCRResources.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6Z4fpesrI3DK4hSH7vTDaFOmrZyFvh0EQ3CcNwpTPy8=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gji2RtEJwU3YrjDV8SqQNvYPnpI8kwEzeqJQd1nysJg=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EPDNQpLTZ7J3ggU9/BhgwGKbEwmAWLOsHW7KYoi7+wQ=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
+			</data>
+		</dict>
 		<key>Liveness.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -621,21 +621,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bA196PgdmRC965EVcSy9h+622YnDb5oX8PCrt/qUuZ8=
+			8BVdqWelHTEbwl8n2ugKY82ge6z9kA2txRA9btPLt2U=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8QSLIwLQST7yH0z00AI4U9ITUFVyfTJhcQ0lfK+8mhA=
+			PW92ftlBMPg5ayxzin3VJycpLnxTWGih5AxjdWnvmO0=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NXULxDrmd84Jz0YE1V19BIoTPubiaJ1vYE1O7cNm0y4=
+			8EmvRDSSj4RBF7bpXaA0G5MCTWJNP7K57c4eYPeLWsU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -782,7 +782,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6UKuwdV+jJr5Mf6LCOjdq8kqkrLvj6Pr9msHlAfCZ0Y=
+			ozZeiHj/+zm2ZXLliEMHIWxUOTfccuW+afXe27Ost+w=
 			</data>
 		</dict>
 		<key>model2.dat</key>
