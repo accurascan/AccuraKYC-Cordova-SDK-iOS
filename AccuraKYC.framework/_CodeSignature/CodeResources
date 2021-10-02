@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		CYfQueehrLd1oiwpJXJQAwExej4=
+		RhvOq8b6sBXXgEa4hEw/AG5zZD8=
 		</data>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/LivenessVC.h</key>
 		<data>
-		5GuPlUTzOeDJo2MnpRx4d52BvoE=
+		zgAx5wmdx6ty1BZBX8TkjDMb/n4=
 		</data>
 		<key>Headers/NSFaceRegion.h</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Headers/NSObject+Liveness.h</key>
 		<data>
-		Lm2AN0oFuWDbGSWlf81v71ItpWw=
+		ZHXZEBOSQP8lrA4mhEJf6x5pHtM=
 		</data>
 		<key>Headers/NSObject+PostResult.h</key>
 		<data>
@@ -194,15 +194,15 @@
 		</data>
 		<key>Liveness.storyboardc/LivenessVC.nib</key>
 		<data>
-		sh+Q9a6V9wy05OEgrMZJmA8oQmE=
+		dXWka6grOrXcVAKpKwKwy6X4wvQ=
 		</data>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<data>
-		P51J39aq3b/bXVfCkM4Y5ZH8gqU=
+		XTM8wBm21qcy99sBCtysLVGyCAk=
 		</data>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<data>
-		4qVyrlbF5fRtU0SXOkpRvou+z1Q=
+		CirBFSQnGXXHv33Hcr1Pw/Hlmno=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -299,7 +299,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n6p19GswY+Ov30X2wlpjCBrOIKmBzOMXW2pBzQvfkDo=
+			IOa9KbmgPdvfP6SoMYDZ8Aekb7cWzUUoBiHkemoyKcs=
 			</data>
 		</dict>
 		<key>GoogleMVFaceDetectorResources.bundle/BCLjoy_200.emd</key>
@@ -460,7 +460,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7YB9uc7qrx2vBm6PjLrINbulQpf3UIawn9PliFriZSs=
+			pFd/HCwc8WhQWHkftPgvO4sI2o/BN3tAr8ZCKvBziBs=
 			</data>
 		</dict>
 		<key>Headers/NSFaceRegion.h</key>
@@ -488,7 +488,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YnUhpBV6y//M3fIqSSXOSsixnHRp6Ekx8rvDwt1EBLQ=
+			fsf931h14y2JhZ+cR6ZHwJlUStaO31ezmVQkFFhrqLA=
 			</data>
 		</dict>
 		<key>Headers/NSObject+PostResult.h</key>
@@ -621,21 +621,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mTDi4FCL1I7xZ4tIxsvLH35F+ln8mk6MprOvC91eKw8=
+			GjOTlMLEZS9GvwigkviSxxj3bj07nF97ky6nL5A+lUw=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/NavigationViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7OcfnVD4GnQFAFKxCqM1aXX5DVhY0Q6XrS/dmVUHt2k=
+			oHa+KvmC5bGhXkd+WjdF1/Jvx5ARKo4xuKJGjndaT08=
 			</data>
 		</dict>
 		<key>Liveness.storyboardc/Ocl-OV-Trd-view-SKD-mj-Bcp.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9KbjiZx8ExhQ7PGPIE0+/EWwWAdvpaH1ftbNPfwy8BA=
+			LRrwxrGLHN7a8zelpOGq7upd0Uc3cvcOaet5OZBdmQU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
