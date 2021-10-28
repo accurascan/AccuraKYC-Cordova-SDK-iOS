@@ -84,6 +84,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(void)setCodeTextColor:(NSString*)codeTextColor;
 -(void)setContentType:(ContentType)contentType;
 -(void)GIFImageNameForVerifiedAnimation:(NSString*)VerifiedAnimation;
+-(void)setTimeIntervalForURLRequestInSec:(int)timeInterval;
 
 @end
 
